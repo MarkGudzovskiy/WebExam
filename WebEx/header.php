@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html long="ru">
+<head>
+    <meta charset="utf-8">
+    <title>FirstPage</title>
+    <!-- подключение стилей gooleFonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&display=swap" rel="stylesheet">
+    <!-- подключние файла стилей -->
+    <link rel="stylesheet" href="styleMain.css">
+</head>
+<body>
+    <header>
+        <a href="#" id="logo">MielPops</a>
+        <a href="about_me.php"><span class="nav">Обо мне</span></a>
+        <span class="right">
+            <a href="form_of_com.php"><span class="nav">Обратная связь</span></a>
+            <a href="form_login.php"><span class="nav">Войти</span></a>
+        </span>
+        
+    </header>
